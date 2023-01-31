@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\bin\Debug\CallLogManagement.exe.config
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\bin\Debug\CallLogManagement.exe
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\bin\Debug\CallLogManagement.pdb
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.Form1.resources
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.Properties.Resources.resources
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.ViewCallDetails.resources
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.exe
+C:\Users\HP\Downloads\RecordedProject-master\RecordedProject-master\CallLogManagement\CallLogManagement\obj\Debug\CallLogManagement.pdb
